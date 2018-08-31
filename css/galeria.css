@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(255, 192, 203);
+    font-family: 'Raleway', sans-serif;
+
+    background-image: url(../images/plaid.jpg);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #00695c;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-decoration: underline;
+    font-weight: 100;
+}
+
+h1 {
+    font-style: italic;
+    text-align: center;
+    font-weight: bold;
+}
+
+

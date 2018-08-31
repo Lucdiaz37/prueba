@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(255, 192, 203);
+    font-family: 'Raleway', sans-serif;
+    background-image: url(../images/plaid.jpg);
+    background-attachment: fixed;
+
+}
+
+h1,
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #00695c;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-decoration: underline;
+    font-weight: 100;
+}
+
+h1 {
+    font-style: italic;
+    text-align: center;
+    font-weight: bold;
+ background-color: rgba(26, 6, 96, 0.2);
+}
+
+.destacado{
+    font-family: fantasy;
+    font-size: 22px;
+    color: white;
+    background-color: rgba(151, 107, 255, 0.8);
+    text-align: justify;
+}
